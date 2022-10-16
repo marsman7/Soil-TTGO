@@ -1,3 +1,5 @@
 ## Soil-TTGO
 
-Ein Bodenfeuchtesensor mit TFT-Display auf der Basis eines ESP32 TTGO T-Display und SeeSaw Soil-Sensor.
+Bodenfeuchtesensor mit TFT-Display auf Basis eines ESP32 TTGO T-Display und SeeSaw Soil-Sensor.
+
+![](images/ttgo-soil.jpg)
